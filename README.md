@@ -2,7 +2,7 @@
 A clean simple BitTorrent client
 
 <!-- ![](screenshot.jpg) -->
-![](./design/vector_design.svg)
+![](./design_ideas/vector_design.svg)
 
 ## Issue to solve
 Current popular clients are made primarily for advanced users.
