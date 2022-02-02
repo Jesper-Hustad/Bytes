@@ -30,7 +30,6 @@ Some have ads and some haven't changed UI since they were released decades ago.
 - The screenshot is entirely made in illustrator and is simply a visualization of what the goal is.  
 - Design can be changed, but a dark theme modern look is still the goal.  
 - Other applications can get close to something like this, but they require installing themes and are a hassle.  
-  You can't beat a applications design that has been built from the ground up and implemented in every step.  
 
 
 ## Build
